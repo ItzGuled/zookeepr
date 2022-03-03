@@ -225,6 +225,15 @@
         "hungry"
       ],
       "id": "23"
+    },
+    {
+      "name": "larry",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "24"
     }
   ]
 }
