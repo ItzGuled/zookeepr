@@ -234,6 +234,24 @@
         "anxious"
       ],
       "id": "24"
+    },
+    {
+      "name": "Jenny",
+      "species": "Dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "25"
+    },
+    {
+      "name": "Guled",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "26"
     }
-  ]
+   ]
 }
